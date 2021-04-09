@@ -1,0 +1,3 @@
+test\rabbitmq\topic\RabbitProducer.class
+test\rabbitmq\topic\model\Message.class
+test\rabbitmq\topic\consumer\RabbitConsumer.class
