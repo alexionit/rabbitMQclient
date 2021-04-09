@@ -18,3 +18,4 @@ services:
       
 command to run where yml file is located:
 docker-compose up
+
